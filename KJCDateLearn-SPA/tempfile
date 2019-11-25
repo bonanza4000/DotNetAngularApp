@@ -1,0 +1,341 @@
+  UID   PID  PPID   C STIME   TTY           TIME CMD
+    0     1     0   0 Sun11AM ??         0:45.52 /sbin/launchd
+    0    48     1   0 Sun11AM ??         0:01.67 /usr/sbin/syslogd
+    0    49     1   0 Sun11AM ??         0:04.62 /usr/libexec/UserEventAgent (System)
+    0    52     1   0 Sun11AM ??         0:00.72 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+    0    53     1   0 Sun11AM ??         0:02.42 /usr/libexec/kextd
+    0    54     1   0 Sun11AM ??         0:15.14 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+    0    58     1   0 Sun11AM ??         0:02.75 /usr/sbin/systemstats --daemon
+   55    60     1   0 Sun11AM ??         0:00.82 /System/Library/CoreServices/appleeventsd --server
+    0    61     1   0 Sun11AM ??         0:06.07 /usr/libexec/configd
+    0    62     1   0 Sun11AM ??         0:07.19 /System/Library/CoreServices/powerd.bundle/powerd
+    0    65     1   0 Sun11AM ??         0:12.46 /usr/libexec/logd
+    0    68     1   0 Sun11AM ??         0:00.79 /usr/libexec/warmd
+    0    69     1   0 Sun11AM ??         0:42.03 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+    0    76     1   0 Sun11AM ??         0:00.58 /usr/libexec/diskarbitrationd
+    0    78     1   0 Sun11AM ??         0:07.45 /usr/libexec/coreduetd
+    0    79     1   0 Sun11AM ??         0:00.39 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+    0    82     1   0 Sun11AM ??         0:11.31 /usr/libexec/opendirectoryd
+    0    83     1   0 Sun11AM ??         0:04.34 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+    0    84     1   0 Sun11AM ??         0:00.09 /Library/PrivilegedHelperTools/com.docker.vmnetd
+    0    86     1   0 Sun11AM ??         0:00.26 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+    0    87     1   0 Sun11AM ??         0:07.71 /System/Library/CoreServices/launchservicesd
+  213    88     1   0 Sun11AM ??         0:00.11 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+    0    89     1   0 Sun11AM ??         0:05.73 /usr/sbin/securityd -i
+  205    90     1   0 Sun11AM ??         0:09.82 /usr/libexec/locationd
+  244    92     1   0 Sun11AM ??         0:00.08 /usr/libexec/displaypolicyd -k 1
+    0    93     1   0 Sun11AM ??         0:00.03 autofsd
+    0    95     1   0 Sun11AM ??         0:03.33 /usr/libexec/dasd
+    0    97     1   0 Sun11AM ??         0:01.35 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+  501    98     1   0 Sun11AM ??         0:06.70 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+    0    99     1   0 Sun11AM ??         0:00.08 /System/Library/CoreServices/logind
+    0   100     1   0 Sun11AM ??         0:00.03 /usr/sbin/KernelEventAgent
+    0   102     1   0 Sun11AM ??         0:00.92 /usr/sbin/bluetoothd
+  261   103     1   0 Sun11AM ??         0:54.96 /usr/libexec/hidd
+    0   104     1   0 Sun11AM ??         0:00.19 /usr/libexec/corebrightnessd --launchd
+    0   105     1   0 Sun11AM ??         0:00.57 /usr/libexec/AirPlayXPCHelper
+    0   106     1   0 Sun11AM ??         0:02.43 /usr/libexec/amfid
+    0   107     1   0 Sun11AM ??         0:09.78 /usr/sbin/notifyd
+  241   108     1   0 Sun11AM ??         0:00.60 /usr/sbin/distnoted daemon
+    0   109     1   0 Sun11AM ??         0:00.92 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+    0   110     1   0 Sun11AM ??         0:01.16 /System/Library/CoreServices/coreservicesd
+    0   112     1   0 Sun11AM ??         0:04.25 /usr/sbin/cfprefsd daemon
+    0   141     1   0 Sun11AM ??         0:15.43 /usr/libexec/airportd
+  202   143     1   0 Sun11AM ??         2:53.11 /usr/sbin/coreaudiod
+   88   144     1   0 Sun11AM ??        23:27.95 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+    0   149     1   0 Sun11AM ??         0:00.03 /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd
+    0   150     1   0 Sun11AM ??         0:06.66 /usr/libexec/trustd
+    0   167     1   0 Sun11AM ??         0:00.80 /usr/libexec/lsd runAsRoot
+   65   168     1   0 Sun11AM ??         0:08.87 /usr/sbin/mDNSResponder
+    0   169     1   0 Sun11AM ??         0:00.75 /usr/sbin/mDNSResponderHelper
+    0   171     1   0 Sun11AM ??         0:03.20 /usr/libexec/sandboxd
+   24   179     1   0 Sun11AM ??         0:07.97 /usr/libexec/symptomsd
+  242   180     1   0 Sun11AM ??         0:01.86 /usr/libexec/nsurlsessiond --privileged
+    0   189     1   0 Sun11AM ??         0:00.79 /usr/libexec/syspolicyd
+    0   190     1   0 Sun11AM ??         0:00.05 /usr/libexec/corestoraged
+    0   192     1   0 Sun11AM ??         0:00.31 /usr/libexec/powerlogd
+  262   196     1   0 Sun11AM ??         0:00.17 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/Resources/VDCAssistant
+    0   204     1   0 Sun11AM ??         0:00.47 /usr/libexec/watchdogd
+    0   208     1   0 Sun11AM ??         0:01.33 /System/Library/PrivateFrameworks/SignpostNotification.framework/Versions/A/XPCServices/signpost_notificationd.xpc/Contents/MacOS/signpost_notificationd
+    0   211    58   0 Sun11AM ??         0:00.20 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+    0   216     1   0 Sun11AM ??         0:52.47 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+    0   229     1   0 Sun11AM ??         0:00.16 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+    0   243     1   0 Sun11AM ??         0:00.26 /System/Library/CoreServices/sharedfilelistd
+    0   254     1   0 Sun11AM ??         0:02.18 /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/XPCServices/com.apple.PerformanceAnalysis.animationperfd.xpc/Contents/MacOS/com.apple.PerformanceAnalysis.animationperfd
+    0   262     1   0 Sun11AM ??         0:00.08 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd daemon
+    0   263     1   0 Sun11AM ??         0:00.70 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerced
+    0   272     1   0 Sun11AM ??         0:00.12 /usr/libexec/securityd_service
+  501   275     1   0 Sun11AM ??         0:08.85 /usr/sbin/distnoted agent
+  501   276     1   0 Sun11AM ??         0:05.76 /usr/libexec/UserEventAgent (Aqua)
+  501   278     1   0 Sun11AM ??         0:02.43 /usr/sbin/universalaccessd launchd -s
+  501   279     1   0 Sun11AM ??         0:01.13 /usr/libexec/lsd
+    0   280     1   0 Sun11AM ??         0:00.17 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+  501   281     1   0 Sun11AM ??         0:32.55 /usr/libexec/trustd --agent
+  501   283     1   0 Sun11AM ??         0:02.08 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+  501   284     1   0 Sun11AM ??         0:03.99 /usr/libexec/sharingd
+  501   287     1   0 Sun11AM ??         0:02.93 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+  501   289     1   0 Sun11AM ??         0:00.63 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+  501   291     1   0 Sun11AM ??         0:15.53 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+  501   295     1   0 Sun11AM ??         0:20.12 /usr/libexec/nsurlstoraged
+  501   296     1   0 Sun11AM ??         0:00.91 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+  501   298     1   0 Sun11AM ??         0:00.69 /System/Library/CoreServices/sharedfilelistd
+  501   299     1   0 Sun11AM ??         0:04.35 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+  501   300     1   0 Sun11AM ??         0:03.16 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+  501   301     1   0 Sun11AM ??         0:02.83 /usr/libexec/nsurlsessiond
+  501   304     1   0 Sun11AM ??         0:01.88 /usr/sbin/usernoted
+  501   306     1   0 Sun11AM ??         0:05.76 /Applications/DB Browser for SQLite.app/Contents/MacOS/DB Browser for SQLite -psn_0_53261
+  501   307     1   0 Sun11AM ??         0:39.40 /Applications/iTerm.app/Contents/MacOS/iTerm2 -psn_0_57358
+  501   309     1   0 Sun11AM ??         3:47.56 /Applications/Visual Studio Code.app/Contents/MacOS/Electron -psn_0_61455
+  501   310     1   0 Sun11AM ??         0:46.95 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+  501   311     1   0 Sun11AM ??         0:01.38 /System/Library/CoreServices/talagent
+  501   312     1   0 Sun11AM ??         0:06.89 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+  501   313     1   0 Sun11AM ??         0:29.04 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+  501   314     1   0 Sun11AM ??         0:21.07 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+  501   317     1   0 Sun11AM ??         0:00.89 /usr/libexec/pboard
+  501   318     1   0 Sun11AM ??         0:04.60 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+  501   325     1   0 Sun11AM ??         0:06.77 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+  501   326     1   0 Sun11AM ??         0:01.94 /usr/libexec/pkd
+  501   328     1   0 Sun11AM ??         0:00.15 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+  501   329     1   0 Sun11AM ??         0:06.27 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+  501   330     1   0 Sun11AM ??         0:00.49 /usr/libexec/rapportd
+  501   331     1   0 Sun11AM ??         0:01.13 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+    0   333     1   0 Sun11AM ??         0:00.03 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+  501   337     1   0 Sun11AM ??         0:01.51 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+  501   338     1   0 Sun11AM ??         0:03.45 /System/Library/CoreServices/cloudphotosd.app/Contents/MacOS/cloudphotosd
+  501   343     1   0 Sun11AM ??         0:04.08 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+    0   351     1   0 Sun11AM ??         0:00.09 /usr/sbin/filecoordinationd
+  501   354     1   0 Sun11AM ??         0:02.56 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+  501   355     1   0 Sun11AM ??         0:00.17 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+  501   357     1   0 Sun11AM ??         0:02.13 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+  501   358     1   0 Sun11AM ??         0:01.37 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+  501   359     1   0 Sun11AM ??         0:01.59 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+    0   360     1   0 Sun11AM ??         0:33.03 /usr/sbin/spindump
+    0   363     1   0 Sun11AM ??         0:00.17 /System/Library/CoreServices/SubmitDiagInfo server-init
+  501   364     1   0 Sun11AM ??         0:01.19 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+  501   385   309   0 Sun11AM ??         3:17.34 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,15272399262649396453,13938935949473328972,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --disable-color-correct-rendering --gpu-preferences=IAAAAAAAAAAgAAAAAAAAAAAAYAAAAAAACAAAAAAAAAAoAQAAJAAAACABAAAAAAAAKAEAAAAAAAAwAQAAAAAAADgBAAAAAAAAQAEAAAAAAABIAQAAAAAAAFABAAAAAAAAWAEAAAAAAABgAQAAAAAAAGgBAAAAAAAAcAEAAAAAAAB4AQAAAAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAADAAQAAAAAAAMgBAAAAAAAA0AEAAAAAAADYAQAAAAAAAOABAAAAAAAA6AEAAAAAAADwAQAAAAAAAPgBAAAAAAAAAAIAAAAAAAAIAgAAAAAAABACAAAAAAAAGAIAAAAAAAAgAgAAAAAAACgCAAAAAAAAMAIAAAAAAAA4AgAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAACgAAABAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAAAAAAANAAAAEAAAAAAAAAAAAAAADgAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAACAAAAEAAAAAAAAAABAAAABgAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACgAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAANAAAAEAAAAAAAAAABAAAADgAAABAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAQAAAACAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACgAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABgAAAAAAAAAQAAAAAAAAAAYAAAACAAAAEAAAAAAAAAAGAAAABgAAABAAAAAAAAAABgAAAAcAAAAQAAAAAAAAAAYAAAAIAAAAEAAAAAAAAAAGAAAACgAAABAAAAAAAAAABgAAAAsAAAAQAAAAAAAAAAYAAAANAAAAEAAAAAAAAAAGAAAADgAAAA== --service-request-channel-token=9827597900868280292
+  501   388     1   0 Sun12PM ??         0:00.40 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/Frameworks/CloudPhotosConfigurationXPC.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+   89   389     1   0 Sun12PM ??         1:26.30 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+  501   390     1   0 Sun12PM ??         0:04.64 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+  501   396     1   0 Sun12PM ??         0:07.29 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+  501   398     1   0 Sun12PM ??         0:01.09 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+  501   410     1   0 Sun12PM ??         0:00.56 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+    0   412     1   0 Sun12PM ??         0:00.39 /usr/sbin/wirelessproxd
+  501   415     1   0 Sun12PM ??         0:00.67 /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/XPCServices/WiFiProxy.xpc/Contents/MacOS/WiFiProxy
+  501   416     1   0 Sun12PM ??         0:01.58 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
+  501   429     1   0 Sun12PM ??         0:01.20 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/com.apple.CoreSimulator.CoreSimulatorService.xpc/Contents/MacOS/com.apple.CoreSimulator.CoreSimulatorService
+  501   431     1   0 Sun12PM ??         0:00.56 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+    0   435     1   0 Sun12PM ??         0:00.83 /usr/libexec/taskgated -s
+  501   438     1   0 Sun12PM ??         0:00.10 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+  501   439     1   0 Sun12PM ??         0:00.05 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+  501   442     1   0 Sun12PM ??         0:00.12 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+  501   446     1   0 Sun12PM ??         0:02.21 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+  501   447     1   0 Sun12PM ??         0:00.05 /bin/sh /usr/local/opt/mysql/bin/mysqld_safe --datadir=/usr/local/var/mysql
+  501   448     1   0 Sun12PM ??         0:00.26 /System/Library/Image Capture/Support/icdd
+  501   450     1   0 Sun12PM ??         0:00.13 /usr/local/opt/postgresql/bin/postgres -D /usr/local/var/postgres
+  501   451     1   0 Sun12PM ??         0:00.79 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+  501   452     1   0 Sun12PM ??         0:00.14 /System/Library/CoreServices/cloudpaird
+  501   454     1   0 Sun12PM ??         0:01.46 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+  501   455     1   0 Sun12PM ??         0:00.65 /System/Library/CoreServices/diagnostics_agent
+  501   462     1   0 Sun12PM ??         0:00.29 /System/Library/CoreServices/backgroundtaskmanagementagent
+  501   529     1   0 Sun12PM ??         0:00.33 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+  501   566     1   0 Sun12PM ??         0:00.56 /Applications/iTunes.app/Contents/MacOS/iTunesHelper.app/Contents/MacOS/iTunesHelper
+  501   572   447   0 Sun12PM ??         0:35.17 /usr/local/opt/mysql/bin/mysqld --basedir=/usr/local/opt/mysql --datadir=/usr/local/var/mysql --plugin-dir=/usr/local/opt/mysql/lib/plugin --log-error=Kenneths-MacBook-Pro.local.err --pid-file=Kenneths-MacBook-Pro.local.pid
+  501   839     1   0 Sun12PM ??         0:01.19 /Applications/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Resources/crashpad_handler --no-rate-limit --no-upload-gzip --database=/var/folders/km/1f9w6q4d3wz86l1j3p29zgtm0000gn/T/VSCode Crashes --metrics-dir=/var/folders/km/1f9w6q4d3wz86l1j3p29zgtm0000gn/T/VSCode Crashes --url=https://rink.hockeyapp.net/api/2/apps/21a48a66799e47fea4f52c0ff81e803d/crashes/upload --handshake-fd=67
+  501   842     1   0 Sun12PM ??         0:00.11 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storelegacy
+  501   859   450   0 Sun12PM ??         0:00.02 postgres: checkpointer     
+  501   861   450   0 Sun12PM ??         0:00.20 postgres: background writer     
+  501   862   450   0 Sun12PM ??         0:00.16 postgres: walwriter     
+  501   863   450   0 Sun12PM ??         0:00.48 postgres: autovacuum launcher     
+  501   864   450   0 Sun12PM ??         0:00.31 postgres: stats collector     
+  501   865   450   0 Sun12PM ??         0:00.02 postgres: logical replication launcher     
+  501  1052     1   0 Sun12PM ??         0:01.59 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd
+  501  1054     1   0 Sun12PM ??         0:02.11 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+  501  1654     1   0 Sun12PM ??         0:00.84 /System/Library/PrivateFrameworks/CommerceKit.framework/Resources/LaterAgent.app/Contents/MacOS/LaterAgent
+  501  2172     1   0 Sun12PM ??         0:01.63 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Support/photolibraryd
+  501  2356     1   0 Sun12PM ??         0:00.76 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+  501  2464   309   0 Sun12PM ??         0:31.77 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --disable-color-correct-rendering --field-trial-handle=1718379636,15272399262649396453,13938935949473328972,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/Applications/Visual Studio Code.app/Contents/Resources/app --node-integration --no-sandbox --no-zygote --background-color=#272822 --disable-blink-features=Auxclick --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=15494243790242330790 --renderer-client-id=6 --no-v8-untrusted-code-mitigations
+    0  2472     1   0 Sun12PM ??         0:01.86 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+  501  2473     1   0 Sun12PM ??         0:01.83 /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History
+  501  2476     1   0 Sun12PM ??         0:06.62 /System/Library/PrivateFrameworks/MessagesKit.framework/Resources/soagent.app/Contents/MacOS/soagent
+    0  2477     1   0 Sun12PM ??         0:00.10 /usr/libexec/keybagd -t 15
+   89  2478     1   0 Sun12PM ??         0:00.64 /usr/libexec/trustd --agent
+  501  2479     1   0 Sun12PM ??         0:31.09 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+  247  2480     1   0 Sun12PM ??         0:01.12 /usr/libexec/gamecontrollerd
+    0  2482     1   0 Sun12PM ??         0:00.11 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+  501  2483     1   0 Sun12PM ??         0:03.60 /usr/sbin/cfprefsd agent
+  501  2486     1   0 Sun12PM ??         0:00.19 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomoments.xpc/Contents/MacOS/com.apple.photomoments
+  501  2487     1   0 Sun12PM ??         0:08.37 /usr/libexec/secd
+  501  2488     1   0 Sun12PM ??         0:00.52 /usr/libexec/secinitd
+  501  2489     1   0 Sun12PM ??         0:00.13 /System/Library/PrivateFrameworks/PhotoLibrary.framework/Versions/A/XPCServices/com.apple.PhotoIngestService.xpc/Contents/MacOS/com.apple.PhotoIngestService
+    0  2490     1   0 Sun12PM ??         0:00.37 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+    0  2493     1   0 Sun12PM ??         0:34.48 /usr/libexec/sysmond
+    0  2494     1   0 Sun12PM ??         0:00.08 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheManagerService.xpc/Contents/MacOS/AssetCacheManagerService
+  501  2496     1   0 Sun12PM ??         0:00.27 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+  501  2497     1   0 Sun12PM ??         0:00.78 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+  501  2498     1   0 Sun12PM ??         0:00.18 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+  501  2499     1   0 Sun12PM ??         0:00.11 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+  501  2500     1   0 Sun12PM ??         0:00.09 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+  501  2502     1   0 Sun12PM ??         0:00.03 /usr/libexec/spindump_agent
+  205  2504     1   0 Sun12PM ??         0:00.07 /usr/sbin/cfprefsd agent
+  501  2506     1   0 Sun12PM ??         0:00.83 /System/Library/PrivateFrameworks/CloudServices.framework/Versions/A/XPCServices/com.apple.sbd.xpc/Contents/MacOS/com.apple.sbd
+  501  2509     1   0 Sun12PM ??         0:04.50 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+  501  2510     1   0 Sun12PM ??         0:00.97 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+  501  2512     1   0 Sun12PM ??         0:01.63 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+  501  2516     1   0 Sun12PM ??         0:00.11 /System/Library/CoreServices/iconservicesagent
+  240  2517     1   0 Sun12PM ??         0:00.04 /System/Library/CoreServices/iconservicesd
+  265  2518     1   0 Sun12PM ??         0:00.44 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+    0  2536     1   0 Sun12PM ??         0:00.34 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+  501  2537     1   0 Sun12PM ??         0:00.20 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+  501  2541     1   0 Sun12PM ??         0:00.12 /usr/libexec/videosubscriptionsd
+  263  2544     1   0 Sun12PM ??         0:00.44 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+    0  2549     1   0 Sun12PM ??         0:00.23 /usr/libexec/diskmanagementd
+    0  2551     1   0 Sun12PM ??         0:00.17 /usr/libexec/nehelper
+  257  2554     1   0 Sun12PM ??         0:01.43 /usr/libexec/DataDetectorsSourceAccess
+  266  2557     1   0 Sun12PM ??         0:00.47 /usr/libexec/timed
+  501  2559     1   0 Sun12PM ??         0:00.25 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+  501  2560     1   0 Sun12PM ??         0:39.14 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+  501  2587     1   0 Sun12PM ??         0:00.75 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+  235  2588     1   0 Sun12PM ??         0:00.12 /usr/libexec/AssetCache/AssetCache
+  243  2589     1   0 Sun12PM ??         0:00.30 /usr/libexec/nsurlstoraged --privileged
+    0  2590     1   0 Sun12PM ??         0:01.67 /usr/libexec/mobileassetd
+  501  2595     1   0 Sun12PM ??         0:00.33 /System/Library/CoreServices/ScopedBookmarkAgent
+  501  2674     1   0 Sun12PM ??         0:00.10 /System/Library/CoreServices/pbs
+  501  2735     1   0 Sun12PM ??         0:00.19 /usr/libexec/networkserviceproxy
+   89  2745     1   0 Sun12PM ??         0:00.04 /usr/sbin/distnoted agent
+  501  2764     1   0 Sun12PM ??         0:05.53 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+  501  2765     1   0 Sun12PM ??         0:00.45 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+  501  2786     1   0 Sun12PM ??         0:00.18 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+    0  3206     1   0 Sun12PM ??         0:00.43 /usr/sbin/systemsoundserverd
+    0  3207     1   0 Sun12PM ??         0:00.07 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+  501  3268     1   0 Sun01PM ??         0:00.08 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent.app/Contents/MacOS/CMFSyncAgent
+  501  3272     1   0 Sun01PM ??         0:02.09 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+  501  3274     1   0 Sun01PM ??         0:00.36 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+  501  3275     1   0 Sun01PM ??         0:00.04 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+  501  3288     1   0 Sun01PM ??         0:00.78 /usr/libexec/keyboardservicesd
+  501  3290     1   0 Sun01PM ??         0:00.86 /usr/libexec/knowledge-agent
+  501  3291     1   0 Sun01PM ??         0:02.22 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+    0  3299     1   0  1:12PM ??         0:00.06 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+  501  3300     1   0  1:12PM ??         0:00.08 /System/Library/Frameworks/Security.framework/Versions/A/Resources/KeychainSyncingOverIDSProxy.bundle/Contents/MacOS/KeychainSyncingOverIDSProxy
+  501  3301     1   0  1:12PM ??         0:00.04 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+    0  3302     1   0  1:12PM ??         0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+  501  3303     1   0  1:12PM ??         0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+  501  3304     1   0  1:12PM ??         0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+  259  3305     1   0  1:12PM ??         0:00.03 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+    0  3306     1   0  1:12PM ??         0:00.02 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+  258  3312     1   0  3:12PM ??         0:00.38 /usr/libexec/captiveagent
+    0  3355     1   0 11:15PM ??         0:00.69 /usr/libexec/findmydeviced
+  260  3357     1   0 11:15PM ??         0:00.06 /usr/libexec/nfcd
+    0  3367     1   0 11:15PM ??         0:00.44 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+    0  3378     1   0  1:16AM ??         0:00.05 aslmanager
+  200  3461     1   0 10:17AM ??         0:50.26 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+  501  3464     1   0 10:17AM ??         0:00.11 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+    0  3465     1   0 10:17AM ??         0:00.01 /usr/libexec/periodic-wrapper daily
+    0  3467     1   0 10:17AM ??         0:00.01 /usr/libexec/periodic-wrapper weekly
+  501  3468     1   0 10:17AM ??         0:00.32 /System/Library/CoreServices/mapspushd
+  501  3469     1   0 10:17AM ??         0:00.07 /System/Library/PrivateFrameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+  501  3470     1   0 10:17AM ??         0:00.18 /usr/libexec/silhouette
+  501  3471     1   0 10:17AM ??         0:00.13 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+  501  3473     1   0 10:17AM ??         0:00.05 /System/Library/PrivateFrameworks/StorageManagement.framework/Resources/diskspaced
+  501  3475     1   0 10:17AM ??         0:04.34 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+  501  3478     1   0 10:17AM ??         0:00.16 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomodel.xpc/Contents/MacOS/com.apple.photomodel
+  501  3480     1   0 10:17AM ??         0:00.49 /System/Library/PrivateFrameworks/ContactsAgent.framework/Executables/ContactsAgent
+  501  3495     1   0 10:17AM ??         0:00.44 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+    0  3549     1   0 10:17AM ??         0:00.06 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+  501  3567     1   0 10:17AM ??         0:00.86 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+  501  3568     1   0 10:17AM ??         0:00.14 /Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
+    0  3574     1   0 10:17AM ??         0:00.06 /usr/bin/sysdiagnose
+  501  3577     1   0 10:17AM ??         0:00.15 /System/Library/PrivateFrameworks/NotesShared.framework/Versions/A/XPCServices/com.apple.Notes.datastore.xpc/Contents/MacOS/com.apple.Notes.datastore
+  501  3598     1   0 10:18AM ??         0:00.05 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_notify_agent
+  501  3613     1   0 10:19AM ??         0:00.61 /usr/sbin/ckkeyrolld
+  501  3617     1   0 10:19AM ??         0:00.27 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+    0  3636     1   0 10:20AM ??         0:00.04 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeinstalld
+  501  3646     1   0 10:21AM ??         0:00.09 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/XPCServices/com.apple.CommerceKit.TransactionService.xpc/Contents/MacOS/com.apple.CommerceKit.TransactionService
+  501  3658     1   0 10:23AM ??         0:00.10 /Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
+  501  3659     1   0 10:23AM ??         0:00.10 /usr/libexec/siriknowledged
+  501  3683     1   0 10:24AM ??         0:02.94 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+  501  3691     1   0 10:25AM ??         0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+  501  3701     1   0 10:26AM ??         0:09.90 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+    0  3702     1   0 10:27AM ??         0:00.13 /usr/libexec/dprivacyd
+  501  3731     1   0 10:46AM ??         0:19.63 /System/Library/CoreServices/ReportCrash agent
+  222  3841     1   0 11:01AM ??         0:00.07 /usr/sbin/netbiosd
+  501  3856     1   0 11:02AM ??         3:26.13 /Applications/Safari.app/Contents/MacOS/Safari
+  501  3858     1   0 11:02AM ??         1:14.63 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+  501  3860     1   0 11:02AM ??        13:37.23 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3861     1   0 11:02AM ??         0:00.46 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/webinspectord
+  501  3863     1   0 11:02AM ??         0:00.05 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+  501  3865     1   0 11:02AM ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  3867     1   0 11:02AM ??         0:00.64 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  501  3868     1   0 11:03AM ??         0:01.91 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3870     1   0 11:04AM ??         0:04.71 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3872     1   0 11:04AM ??         0:04.83 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3874     1   0 11:04AM ??         0:15.61 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3910     1   0 11:17AM ??         0:00.57 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+  501  3967     1   0 11:23AM ??         0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  3968     1   0 11:23AM ??         0:01.83 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  501  3973     1   0 11:24AM ??         0:04.40 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3976     1   0 11:25AM ??         0:01.68 /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+  501  3983     1   0 11:26AM ??         3:21.56 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3984     1   0 11:26AM ??         0:00.81 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+  501  4527     1   0 11:44AM ??         0:05.71 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  4528     1   0 11:44AM ??         0:17.19 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+    0  4535     1   0 11:46AM ??         0:00.05 /usr/sbin/ocspd
+    0  4540     1   0 11:48AM ??         0:00.26 /usr/sbin/cupsd -l
+    0  4541     1   0 11:49AM ??         0:00.03 /System/Library/CoreServices/ReportCrash daemon
+  501  4585     1   0 11:52AM ??         0:00.63 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501  4586     1   0 11:52AM ??         0:00.85 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501  4587     1   0 11:52AM ??         0:00.76 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501  4752     1   0 12:17PM ??         0:52.46 /Applications/Postman.app/Contents/MacOS/Postman
+  501  4754  4752   0 12:17PM ??         0:20.09 /Applications/Postman.app/Contents/Frameworks/Postman Helper.app/Contents/MacOS/Postman Helper --type=gpu-process --no-sandbox --gpu-preferences=KAAAAAAAAACAAAAAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAADgBAAAmAAAAMAEAAAAAAAA4AQAAAAAAAEABAAAAAAAASAEAAAAAAABQAQAAAAAAAFgBAAAAAAAAYAEAAAAAAABoAQAAAAAAAHABAAAAAAAAeAEAAAAAAACAAQAAAAAAAIgBAAAAAAAAkAEAAAAAAACYAQAAAAAAAKABAAAAAAAAqAEAAAAAAACwAQAAAAAAALgBAAAAAAAAwAEAAAAAAADIAQAAAAAAANABAAAAAAAA2AEAAAAAAADgAQAAAAAAAOgBAAAAAAAA8AEAAAAAAAD4AQAAAAAAAAACAAAAAAAACAIAAAAAAAAQAgAAAAAAABgCAAAAAAAAIAIAAAAAAAAoAgAAAAAAADACAAAAAAAAOAIAAAAAAABAAgAAAAAAAEgCAAAAAAAAUAIAAAAAAABYAgAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAAAAAAATAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAEAAAAQAAAAEAAAAAAAAAABAAAAEgAAABAAAAAAAAAAAQAAABMAAAAQAAAAAAAAAAMAAAAFAAAAEAAAAAAAAAADAAAACwAAABAAAAAAAAAAAwAAAAwAAAAQAAAAAAAAAAMAAAANAAAAEAAAAAAAAAADAAAADwAAABAAAAAAAAAAAwAAABAAAAAQAAAAAAAAAAMAAAASAAAAEAAAAAAAAAADAAAAEwAAABAAAAAAAAAABQAAAAUAAAAQAAAAAAAAAAUAAAALAAAAEAAAAAAAAAAFAAAADQAAABAAAAAAAAAABQAAAA8AAAAQAAAAAAAAAAUAAAAQAAAAEAAAAAAAAAAFAAAAEgAAABAAAAAAAAAABQAAABMAAAAQAAAAAAAAAAYAAAAFAAAAEAAAAAAAAAAGAAAACwAAABAAAAAAAAAABgAAAA0AAAAQAAAAAAAAAAYAAAAPAAAAEAAAAAAAAAAGAAAAEAAAABAAAAAAAAAABgAAABIAAAAQAAAAAAAAAAYAAAATAAAA --service-request-channel-token=709980BAE134BEEB8565F1308A9A79F3
+  501  4756  4752   0 12:17PM ??         0:01.38 /Applications/Postman.app/Contents/Frameworks/Postman Helper.app/Contents/MacOS/Postman Helper --type=renderer --no-sandbox --service-pipe-token=A69DB8347774B89B7E390A76AC708617 --lang=en-US --app-path=/Applications/Postman.app/Contents/Resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#E8E0CB --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=A69DB8347774B89B7E390A76AC708617 --renderer-client-id=6
+  501  4758     1   0 12:17PM ??         0:00.61 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501  4759  4752   0 12:17PM ??         0:14.60 /Applications/Postman.app/Contents/Frameworks/Postman Helper.app/Contents/MacOS/Postman Helper --type=renderer --no-sandbox --service-pipe-token=76E7FCC61D483C4C47AE77E4BBA25CCB --lang=en-US --app-path=/Applications/Postman.app/Contents/Resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#fff --guest-instance-id=1 --enable-blink-features --disable-blink-features --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=76E7FCC61D483C4C47AE77E4BBA25CCB --renderer-client-id=8
+  501  4760  4752   0 12:17PM ??         0:02.38 /Applications/Postman.app/Contents/Frameworks/Postman Helper.app/Contents/MacOS/Postman Helper --type=renderer --no-sandbox --service-pipe-token=6BD3E67AB1BBE4CC4B011F769C4E5DFE --lang=en-US --app-path=/Applications/Postman.app/Contents/Resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#E8E0CB --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=6BD3E67AB1BBE4CC4B011F769C4E5DFE --renderer-client-id=10
+  501  4762  4752   0 12:17PM ??         1:20.92 /Applications/Postman.app/Contents/Frameworks/Postman Helper.app/Contents/MacOS/Postman Helper --type=renderer --no-sandbox --service-pipe-token=206345B3D5092A5AE37DD0CCCADC4C2A --lang=en-US --app-path=/Applications/Postman.app/Contents/Resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#fff --guest-instance-id=2 --enable-blink-features --disable-blink-features --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --enable-compositor-image-animations --service-request-channel-token=206345B3D5092A5AE37DD0CCCADC4C2A --renderer-client-id=12
+  501  4816     1   0 12:23PM ??         0:11.51 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  4817     1   0 12:23PM ??         0:03.98 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  4825   309   0 12:25PM ??         3:01.01 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --disable-color-correct-rendering --field-trial-handle=1718379636,15272399262649396453,13938935949473328972,131072 --disable-features=LayoutNG,SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/Applications/Visual Studio Code.app/Contents/Resources/app --node-integration --webview-tag --no-sandbox --no-zygote --background-color=#272822 --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=13522637090527565653 --renderer-client-id=33 --no-v8-untrusted-code-mitigations
+  501  4826  4825   0 12:25PM ??         0:31.81 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork --type=extensionHost
+  501  4828  4825   0 12:25PM ??         0:00.67 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork --type=watcherService
+  501  5143     1   0 12:26PM ??         0:00.53 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+    0  5144     1   0 12:26PM ??         0:00.04 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+  501  5151  4825   0 12:26PM ??         0:00.70 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork --type=searchService
+  501  5157  4826   0 12:26PM ??         0:00.72 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/server/dist/jsonServerMain --node-ipc --clientProcessId=4826
+  501  5177  4826   0 12:26PM ??         0:58.38 mono --assembly-loader=strict /Users/kennethcartwrighttemp2/.vscode/extensions/ms-vscode.csharp-1.21.8/.omnisharp/1.34.8/omnisharp/OmniSharp.exe -s /Users/kennethcartwrighttemp2/Documents/Dev/VisStudioProjects/KJCDotNetDateLearn/KJCDateLearn.API/KJCDateLearn.API.sln --hostPID 4826 DotNet:enablePackageRestore=false --encoding utf-8 --loglevel information --plugin /Users/kennethcartwrighttemp2/.vscode/extensions/ms-vscode.csharp-1.21.8/.razor/OmniSharpPlugin/Microsoft.AspNetCore.Razor.OmniSharpPlugin.dll FileOptions:SystemExcludeSearchPatterns:0=**/.git FileOptions:SystemExcludeSearchPatterns:1=**/.svn FileOptions:SystemExcludeSearchPatterns:2=**/.hg FileOptions:SystemExcludeSearchPatterns:3=**/CVS FileOptions:SystemExcludeSearchPatterns:4=**/.DS_Store formattingOptions:useTabs=false formattingOptions:tabSize=4 formattingOptions:indentationSize=4
+  501  5219     1   0 12:28PM ??         0:04.36 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+   89  5238     1   0 12:29PM ??         0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501  5615  4826   0 12:37PM ??         0:01.12 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --max-old-space-size=3072 /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js --syntaxOnly --useInferredProjectPerProjectRoot --disableAutomaticTypingAcquisition --cancellationPipeName /var/folders/km/1f9w6q4d3wz86l1j3p29zgtm0000gn/T/vscode-typescript501/cd40af345a8425886f0d/tscancellation-b99778f25aff8bd1e230.tmp* --globalPlugins typescript-tslint-plugin,@vsintellicode/typescript-intellicode-plugin --pluginProbeLocations /Users/kennethcartwrighttemp2/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3,/Users/kennethcartwrighttemp2/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.0 --locale en --noGetErrOnBackgroundUpdate --validateDefaultNpmLocation
+  501  5616  4826   0 12:37PM ??         0:19.86 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --max-old-space-size=3072 /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js --useInferredProjectPerProjectRoot --enableTelemetry --cancellationPipeName /var/folders/km/1f9w6q4d3wz86l1j3p29zgtm0000gn/T/vscode-typescript501/cd40af345a8425886f0d/tscancellation-82ca9457db3618bb67a6.tmp* --globalPlugins typescript-tslint-plugin,@vsintellicode/typescript-intellicode-plugin --pluginProbeLocations /Users/kennethcartwrighttemp2/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3,/Users/kennethcartwrighttemp2/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.0 --locale en --noGetErrOnBackgroundUpdate --validateDefaultNpmLocation
+  501  5617  5616   0 12:37PM ??         0:00.56 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/typingsInstaller.js --globalTypingsCacheLocation /Users/kennethcartwrighttemp2/Library/Caches/typescript/3.6 --enableTelemetry --typesMapLocation /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/node_modules/typescript/lib/typesMap.json --validateDefaultNpmLocation
+  501  5645  4826   0 12:40PM ??         0:13.85 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) /Users/kennethcartwrighttemp2/.vscode/extensions/angular.ng-template-0.802.3/server/server.js --logFile /Users/kennethcartwrighttemp2/Library/Application Support/Code/logs/20191124T120000/exthost4/Angular.ng-template/nglangsvc.log --node-ipc --clientProcessId=4826
+  501  6030     1   0 12:47PM ??         0:00.42 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+  501  6092  4826   0 12:52PM ??         0:04.12 /Users/kennethcartwrighttemp2/.sdkman/candidates/java/current/bin/java -noverify -Xmx64M -XX:+UseG1GC -XX:+UseStringDeduplication -jar /Users/kennethcartwrighttemp2/.vscode/extensions/redhat.vscode-xml-0.9.1/server/org.eclipse.lsp4xml-uber.jar
+  501  6093  4826   0 12:52PM ??         0:38.36 /Users/kennethcartwrighttemp2/.sdkman/candidates/java/current/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /Users/kennethcartwrighttemp2/.vscode/extensions/redhat.java-0.53.1/server/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar -configuration /Users/kennethcartwrighttemp2/.vscode/extensions/redhat.java-0.53.1/server/config_mac -data /Users/kennethcartwrighttemp2/Library/Application Support/Code/User/workspaceStorage/e78892325bb0140b9b6c93debb50f25f/redhat.java/jdt_ws
+  501  6121  4826   0 12:53PM ??         0:07.70 /Users/kennethcartwrighttemp2/.sdkman/candidates/java/11.0.4.hs-adpt/bin/java -cp /Users/kennethcartwrighttemp2/.vscode/extensions/pivotal.vscode-spring-boot-1.13.0/language-server/BOOT-INF/classes:/Users/kennethcartwrighttemp2/.vscode/extensions/pivotal.vscode-spring-boot-1.13.0/language-server/BOOT-INF/lib/* -Dspring.lsp.client-port=45556 -Dserver.port=45556 -Dsts.lsp.client=vscode -Dsts.log.file=/dev/null -XX:TieredStopAtLevel=1 -Dspring.config.location=file:/Users/kennethcartwrighttemp2/.vscode/extensions/pivotal.vscode-spring-boot-1.13.0/language-server/BOOT-INF/classes/application.properties org.springframework.ide.vscode.boot.app.BootLanguagServerBootApp
+  501  6125     1   0 12:53PM ??         0:02.92 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  6126     1   0 12:53PM ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  6380     1   0  1:03PM ??         0:11.69 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  6422     1   0  1:04PM ??         0:00.14 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+  501  6431     1   0  1:05PM ??         0:03.12 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  6432     1   0  1:05PM ??         0:47.07 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  6437     1   0  1:05PM ??         0:01.63 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  6509     1   0  1:08PM ??         0:00.15 /System/Library/Frameworks/QuickLook.framework/Resources/quicklookd.app/Contents/MacOS/quicklookd
+  501  6526     1   0  1:09PM ??         0:00.29 /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501   841   307   0 Sun12PM ttys000    0:00.08 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+    0   846   841   0 Sun12PM ttys000    0:00.04 /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+  501   853   846   0 Sun12PM ttys000    0:00.18 -bash
+  501  5255  4825   0 12:30PM ttys001    0:00.11 /usr/local/bin/bash -l
+  501  5644  5255   0 12:40PM ttys001    0:31.83 ng serve  
+  501   847   307   0 Sun12PM ttys002    0:00.08 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+    0   848   847   0 Sun12PM ttys002    0:00.04 /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+  501   855   848   0 Sun12PM ttys002    0:00.17 -bash
+  501   851   307   0 Sun12PM ttys003    0:00.06 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+    0   857   851   0 Sun12PM ttys003    0:00.04 /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+  501   860   857   0 Sun12PM ttys003    0:00.15 -bash
+  501   858   307   0 Sun12PM ttys004    0:00.06 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+    0   866   858   0 Sun12PM ttys004    0:00.04 /usr/bin/login -fpl kennethcartwrighttemp2 /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+  501   957   866   0 Sun12PM ttys004    0:00.27 -bash
+    0  6602   957   0  1:11PM ttys004    0:00.01 ps -aef
+  501  5649  4825   0 12:40PM ttys005    0:00.09 /usr/local/bin/bash -l
+  501  4827  4825   0 12:25PM ttys006    0:00.14 /usr/local/bin/bash -l
+  501  5222  4827   0 12:29PM ttys006    0:02.11 dotnet run .
+  501  5240  5222   0 12:29PM ttys006    0:03.83 /Users/kennethcartwrighttemp2/Documents/Dev/VisStudioProjects/KJCDotNetDateLearn/KJCDateLearn.API/bin/Debug/netcoreapp3.0/KJCDateLearn.API .
