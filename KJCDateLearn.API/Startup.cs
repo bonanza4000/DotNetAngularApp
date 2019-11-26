@@ -31,6 +31,7 @@ namespace KJCDateLearn.API
                 (Configuration.GetConnectionString("DefaultConnection")));
  //           services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddCors();
+            services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddControllers();
         }
 
